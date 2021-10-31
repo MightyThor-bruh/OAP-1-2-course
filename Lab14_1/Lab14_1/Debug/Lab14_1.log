@@ -1,0 +1,4 @@
+﻿  Lab14_1.cpp
+C:\Users\gaechka\source\repos\Lab14_1\Lab14_1\Lab14_1.cpp(49,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gaechka\source\repos\Lab14_1\Lab14_1\Lab14_1.cpp(100,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab14_1.vcxproj -> C:\Users\gaechka\source\repos\Lab14_1\Debug\Lab14_1.exe
