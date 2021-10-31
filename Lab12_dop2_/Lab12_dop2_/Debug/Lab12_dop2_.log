@@ -1,0 +1,4 @@
+﻿  Lab12_dop2_.cpp
+C:\Users\gaechka\source\repos\Lab12_dop2_\Lab12_dop2_\Lab12_dop2_.cpp(18,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gaechka\source\repos\Lab12_dop2_\Lab12_dop2_\Lab12_dop2_.cpp(22,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gaechka\source\repos\Lab12_dop2_\Lab12_dop2_\Lab12_dop2_.cpp(47): error C4703: используется потенциально неинициализированная локальная переменная-указатель "p1"
