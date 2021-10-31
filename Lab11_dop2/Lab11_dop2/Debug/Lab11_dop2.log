@@ -1,0 +1,4 @@
+﻿  Lab11_dop2.cpp
+C:\Users\gaechka\source\repos\Lab11_dop2\Lab11_dop2\Lab11_dop2.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\gaechka\source\repos\Lab11_dop2\Lab11_dop2\Lab11_dop2.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab11_dop2.vcxproj -> C:\Users\gaechka\source\repos\Lab11_dop2\Debug\Lab11_dop2.exe
