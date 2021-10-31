@@ -1,0 +1,5 @@
+﻿  Lab7_1.cpp
+C:\Users\gaechka\source\repos\Lab7_1\Lab7_1\Lab7_1.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\gaechka\source\repos\Lab7_1\Lab7_1\Lab7_1.cpp(12,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\gaechka\source\repos\Lab7_1\Lab7_1\Lab7_1.cpp(12,36): warning C4101: i: неиспользованная локальная переменная
+  Lab7_1.vcxproj -> C:\Users\gaechka\source\repos\Lab7_1\Debug\Lab7_1.exe
