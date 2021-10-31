@@ -1,0 +1,5 @@
+﻿  Lab15_dop4.cpp
+C:\Users\gaechka\source\repos\Lab15_dop4\Lab15_dop4\Lab15_dop4.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\gaechka\source\repos\Lab15_dop4\Lab15_dop4\Lab15_dop4.cpp(17,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\gaechka\source\repos\Lab15_dop4\Lab15_dop4\Lab15_dop4.cpp(17,39): warning C4101: h: неиспользованная локальная переменная
+  Lab15_dop4.vcxproj -> C:\Users\gaechka\source\repos\Lab15_dop4\Debug\Lab15_dop4.exe
