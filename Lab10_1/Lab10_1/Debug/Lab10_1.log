@@ -1,0 +1,4 @@
+﻿  Lab10_1.cpp
+C:\Users\gaechka\source\repos\Lab10_1\Lab10_1\Lab10_1.cpp(10,17): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\gaechka\source\repos\Lab10_1\Lab10_1\Lab10_1.cpp(10,9): warning C4101: i: неиспользованная локальная переменная
+  Lab10_1.vcxproj -> C:\Users\gaechka\source\repos\Lab10_1\Debug\Lab10_1.exe
