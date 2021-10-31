@@ -1,0 +1,4 @@
+﻿  Lab10_dop1.cpp
+C:\Users\gaechka\source\repos\Lab10_dop1\Lab10_dop1\Lab10_dop1.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\gaechka\source\repos\Lab10_dop1\Lab10_dop1\Lab10_dop1.cpp(8,22): warning C4101: k: неиспользованная локальная переменная
+  Lab10_dop1.vcxproj -> C:\Users\gaechka\source\repos\Lab10_dop1\Debug\Lab10_dop1.exe
